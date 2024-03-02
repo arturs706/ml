@@ -22,3 +22,4 @@ langchainhub
 duckduckgo-search
 beautifulsoup4
 gradio
+google-search-results
